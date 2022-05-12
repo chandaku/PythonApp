@@ -32,4 +32,6 @@ Set Following Environment Variables for project
 
 https://medium.com/@mushtaque87/flask-in-pycharm-community-edition-c0f68400d91e#:~:text=As%20we%20know%20there%20is,project%20and%20set%20it%20up.
 
+https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/
+
 
